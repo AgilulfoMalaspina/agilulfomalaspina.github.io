@@ -6,21 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-我是一名对技术充满热情的开发者，同时在电子工程专业学习。
-
-<<<<<<< HEAD
-欢迎来到我的个人网站！请在这里写一段简洁的自我介绍，让访客快速了解你是谁、正在做什么。
+我是一名对技术充满热情的开发者，同时在电子工程专业学习。欢迎来到我的个人网站！
 
 ## 近期动态
-- 用一两句话记录你最近在做的项目或研究。
-- 也可以链接到博客文章、作品或演讲。
 
 ## 关注方向
-- 列出你专注的技术、研究或兴趣主题。
 
 ## 联系方式
-- 邮箱：填写你的邮箱或留空
-- GitHub：`https://github.com/你的用户名`
-- 其他社交链接可在 `_config.yml` 的 `author` 区块配置
-
-> 根据需要自由增删版块；本页面的内容完全由你掌控。
+- email: [hsuancheng2417@gmail.com](mailto:hsuancheng2417@gmail.com)
+- GitHub：`https://github.com/agilulfomalaspina`
