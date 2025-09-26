@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "关于我"
+title: "你好，我是 Agilulfo"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+我是一名对技术充满热情的开发者，同时在电子工程专业学习。
 
+<<<<<<< HEAD
 欢迎来到我的个人网站！请在这里写一段简洁的自我介绍，让访客快速了解你是谁、正在做什么。
 
 ## 近期动态
