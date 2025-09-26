@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Agilulfo | Electronics Engineering Developer"
-title_separator          : "-"
+locale                   : "CN"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Agilulfo's Blog"
+title_separator          : " "
 name                     : &name "Agilulfo"
-description              : &description "Notes and projects from an electronics engineering developer"
+description              : &description "A Developer"
 url                      : https://agilulfomalaspina.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,14 +23,13 @@ repository               : "agilulfomalaspina/agilulfomalaspina.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "soyorin.jpg" # filename of avatar image placed in /images/ for author profile
   name             : "Agilulfo"
   pronouns         : # example: "she/her"  
-  bio              : "Electronics engineering student building technology that communicates, senses, and learns."
-  location         : ""
-  employer         : "Electronics Engineering Program"
+  bio              : "A Developer"
+  employer         : "Peking University"
   uri              : # URL
-  email            : ""
+  email            : "hsuancheng2417@gmail.com"
 
   # Academic websites
   academia         : # URL

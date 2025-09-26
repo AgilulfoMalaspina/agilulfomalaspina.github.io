@@ -9,13 +9,10 @@
 
 main:
   - title: "Projects"
-    url: /portfolio/
-
-  - title: "Blog"
-    url: /year-archive/
-
-  - title: "Talks"
-    url: /talks/
+    url: /projects/
 
   - title: "CV"
     url: /cv/
+
+  - title: "Notes"
+    url: /notes/
